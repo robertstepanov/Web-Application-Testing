@@ -51,6 +51,19 @@
   justify-content: space-evenly;
 }
 
+button {
+  width: 250px;
+  height: 35px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: yellow;
+  color: #353535;
+}
+
 
 
 
